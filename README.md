@@ -15,5 +15,5 @@ Este é o site institucional da Glow Fragrância, desenvolvido para apresentar n
 
 ## Contato
 
-- Email: glowefragrancia@gmail.com
-- WhatsApp: (98) 98599-6410 
+- Email: 
+- WhatsAp
